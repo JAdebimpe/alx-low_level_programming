@@ -1,4 +1,9 @@
 #include<stdio.h>
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
-{printf("Program");
-Return:0}
+{printf("Program"); }
+{return : (0); }
